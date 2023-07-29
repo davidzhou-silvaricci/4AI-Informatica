@@ -1,11 +1,7 @@
-### Exercises
+### Projects
 
 1. Calcolatrice
 2. Milionario
-3. Verifica (10 dic 2020)
-4. Negozio
-5. Mastermind
-6. Studio dentistico
-7. Editor di testo
-8. Verifica (11 feb 2021)
-9. Distributore carburante
+3. Mastermind
+4. Studio dentistico
+5. Editor di testo
